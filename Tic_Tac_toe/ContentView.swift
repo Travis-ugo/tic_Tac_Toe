@@ -7,9 +7,9 @@
 
 import SwiftUI
 
-struct ContentView: View {
+struct ContentView: View { 
     var body: some View {
-        Text("Hello, world!")
+        Text("This is my first Github commit with xcode")
             .padding()
     }
 }
